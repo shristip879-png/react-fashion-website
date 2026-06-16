@@ -1,3 +1,4 @@
+// Home.jsx
 export function HomeHero() {
   return (
     <div

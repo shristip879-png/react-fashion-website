@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
-
-export function Navbar() {
+ function Navbar() {
   return (
     <nav
       style={{
@@ -47,6 +46,7 @@ export function Navbar() {
         <Link to="/contact">
           <button
             style={{
+              marginRight: "15px",
               padding: "10px 20px",
               borderRadius: "10px",
               border: "none",
@@ -54,6 +54,21 @@ export function Navbar() {
             }}
           >
             Contact
+          </button>
+        </Link>
+
+        <Link to="/order">
+          <button
+            style={{
+              padding: "10px 20px",
+              borderRadius: "10px",
+              border: "none",
+              cursor: "pointer",
+              background: "#e91e63",
+              color: "white",
+            }}
+          >
+            Order
           </button>
         </Link>
       </div>
