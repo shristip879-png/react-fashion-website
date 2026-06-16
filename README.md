@@ -6,3 +6,4 @@
 
 ![image alt](https://github.com/shristip879-png/react-fashion-website/blob/main/Screenshot%202026-06-08%20183721.png?raw=true)
 ![image alt](https://github.com/shristip879-png/react-fashion-website/blob/ddcdb1ea071a6063b110fd5e54753fe72d538dd7/Screenshot%202026-06-16%20103124.png)
+![image alt](https://github.com/shristip879-png/react-fashion-website/blob/98903bb56073024632a9e71f91bb74226807ce90/Screenshot%202026-06-16%20103519.png)
