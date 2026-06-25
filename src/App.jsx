@@ -1,8 +1,8 @@
-import Navbar from "./components/Navbar";
-import HomeHero from "./components/HomeHero";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import OrderPage from "./components/OrderPage";
+import Navbar from "./Components/Navbar";
+import HomeHero from "./Components/HomeHero";
+import About from "./Components/About";
+import Contact from "./Components/Contact";
+import OrderPage from "./Components/OrderPage";
 import { Routes, Route } from "react-router-dom";
 
 function App() {
