@@ -1,15 +1,11 @@
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-
-// Pages
 import HomeHero from "./components/HomeHero";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import OrderPage from "./components/OrderPage";
 import Auth from "./components/Auth";
 import Dashboard from "./components/Dashboard";
-
-// Protected
 import Protected from "./protected";
 
 function App() {
@@ -42,3 +38,5 @@ function App() {
 }
 
 export default App;
+
+
