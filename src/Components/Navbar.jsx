@@ -60,6 +60,7 @@ import { Link } from "react-router-dom";
         <Link to="/order">
           <button
             style={{
+              marginRight: "15px",
               padding: "10px 20px",
               borderRadius: "10px",
               border: "none",
@@ -69,6 +70,22 @@ import { Link } from "react-router-dom";
             }}
           >
             Order
+          </button>
+        </Link>
+
+        <Link to="/login">
+          <button
+            style={{
+              marginRight: "15px",
+              padding: "10px 20px",
+              borderRadius: "10px",
+              border: "none",
+              cursor: "pointer",
+              background: "#2563eb",
+              color: "white",
+            }}
+          >
+            Login
           </button>
         </Link>
       </div>
